@@ -1,0 +1,10 @@
+/.venv
+/data
+test.ipynb
+.idea/
+
+# python cache and compiled files
+**.pyc
+**.pyo
+**.pyd
+__pycache__/
